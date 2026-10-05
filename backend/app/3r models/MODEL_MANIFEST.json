@@ -1,0 +1,20 @@
+{
+    "model_name": "all-MiniLM-L6-v2",
+    "source_identifier": "sentence-transformers/all-MiniLM-L6-v2",
+    "embedding_dimension": 384,
+    "framework": "SentenceTransformers / PyTorch",
+    "local_model_path": "models/all-MiniLM-L6-v2",
+    "verification_status": "verified",
+    "hashes": {
+        "config.json": "038a9fbf343363a7b9f8296a0a8402375e8e4e24f612ee4d7f1ec6fa67548508",
+        "config_sentence_transformers.json": "17f4c55f818e2c5e167b421c99ae2213c970990182f8ab0caf1f5d03353c15c7",
+        "model.safetensors": "1377e9af0ca0b016a9f2aa584d6fc71ab3ea6804fae21ef9fb1416e2944057ac",
+        "modules.json": "e7989e94b5b809d895a9521b708312c1ccd333e183effebaf3838908da2acd53",
+        "README.md": "3fc756c24ada7da8ea723c13c19cba30b02a4fb22f358cd5b9262eba6a974a3b",
+        "sentence_bert_config.json": "01d1055f90dbf0425135dbb95d2ef43f77c49802faec5a20fea87637dda4ea51",
+        "special_tokens_map.json": "5aa43c2f985a25296d5a5ce621c2f77376ca8091a47993c492fd5460b895b140",
+        "tokenizer.json": "da0e79933b9ed51798a3ae27893d3c5fa4a201126cef75586296df9b4d2c62a0",
+        "tokenizer_config.json": "d4f505dfdb84b5a987fc5f520e0c2bac59e4ac6e43a1d00cab1e96647971dad8",
+        "vocab.txt": "07eced375cec144d27c900241f3e339478dec958f92fddbc551f295c992038a3"
+    }
+}
